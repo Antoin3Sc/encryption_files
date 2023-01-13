@@ -1,0 +1,4 @@
+excluded_files:
+  - .DS_Store
+
+dir_path: './files'
